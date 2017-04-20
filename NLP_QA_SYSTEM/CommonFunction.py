@@ -175,3 +175,4 @@ def SentenceSimilarity(sen1,sen2):
 	sen1 = RemoveStopWord(sen1)
 	sen2 = RemoveStopWord(sen2)
 	return 0
+	return None
